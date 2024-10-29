@@ -94,6 +94,8 @@ local M = {
     },
 
     description = {
+        winhl = "Normal:NormalFloat,FloatBorder:FloatBorder",
+
         position = "left", ---@type lc.position
 
         width = "40%", ---@type lc.size
